@@ -1,4 +1,4 @@
-# -An-Automated-Machine-Learning-Approach-for-Smart-Waste-Management-Systems
+# An-Automated-Machine-Learning-Approach-for-Smart-Waste-Management-Systems
 
 ### Objective
 To identify and investigate several solutions in existing waste management systems for determining whether a container was emptied.
